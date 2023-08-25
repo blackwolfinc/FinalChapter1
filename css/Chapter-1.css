@@ -1,0 +1,23 @@
+ 
+ /* elemen */
+
+
+
+/* class */
+.rumahKita {
+    background: url(./gambarkakek.jpeg);
+    background-size: cover;
+    background-position: center; 
+}
+
+/* id */
+#akuganteng {
+    background: url(./gambarkakek.jpeg);
+    background-size: cover;
+    background-position: center; 
+}
+
+
+.parents{
+    width: 80vh;
+}

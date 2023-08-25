@@ -1,0 +1,94 @@
+
+
+.btn{
+    border-radius: 10px !important;
+    color: rebeccapurple !important;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bootstrapWrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     /* background: #F1F3FF; */
+     width: 50%;
+     justify-self: center;
+     margin-top: 3rem;
+     flex-direction: column;
+}
+
+.carousel-item{
+    background: #F1F3FF;
+    border-radius: 10px;
+
+}
+
+.sectionImg{
+    /* background: red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-jhon{
+    font-weight: 800;
+    margin-top: 0.5rem;
+}
+
+.sectionImg img {
+    border-radius: 100%;
+    height: 80px;
+    width: 80px;
+}
+
+.sectionHeading{
+    /* background: red; */
+    font-size: 14px;
+    padding: 3rem 1rem;
+}
+
+.btnWarp{
+    /* background: red; */
+    height: 5rem;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 1rem;
+}
+
+.btnCaruselPrev{
+    background: black !important;
+    border-radius: 100%;
+    height: 40px !important;
+    width: 40px !important;
+    position: relative !important;
+ 
+}
+
+.bootstrapWrap {
+
+    scale: 0.8;
+}
+
+/* .btnWarp{
+    background: red;
+    height: 5rem;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 1rem;
+}
+
+
+
+.carousel-control-prev-icon , .carousel-control-next-icon{
+    height: 10px !important;
+   
+} */

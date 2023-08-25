@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+}
+
+.navbar {
+    /* background: red; */
+    /* width: 100vw; */
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 3rem;
+    border-bottom: 1px solid gray;
+}
+
+.logo{
+    /* background: purple; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link {
+    display: flex;
+    background: dimgray;
+    gap: 20px;
+    align-items: center;
+    /* width: 40rem; */
+}
+
+.inlineClass {
+    display: inline;
+    width: 100vw;
+}
+
+.blockClass{
+    display: block;
+    width: 100vw;
+
+}
